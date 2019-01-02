@@ -13,7 +13,7 @@ yarn
 yarn build && yarn start
 ```
 
-* You'll see 3 bundle files in /dist. This is due to the use of 'React.lazy' in /src/app.jsz
+* You'll see 3 bundle files in /dist. This is due to the use of 'React.lazy' in /src/app.jsx
 
 * Open a network tab and load up the application. You'll see only `bundle.js` is loaded initially.
 
